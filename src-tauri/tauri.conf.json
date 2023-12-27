@@ -20,10 +20,9 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.tauri.dev",
-      "icon": [
-        "calculator.png"
-      ]
+      "identifier": "calculator",
+      "icon": ["/src-tauri/icons/calculator.png"]
+
     },
     "security": {
       "csp": null
